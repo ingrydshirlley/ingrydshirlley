@@ -17,6 +17,10 @@ Atualmente, estou explorando o mundo do **Java** e **programação orientada a o
 
 ![Ingryd GitHub Stats](https://github-readme-stats.vercel.app/api?username=ingrydshirlley&show_icons=true&theme=tokyonight)
 
+## 📈 Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingrydshirlley&layout=compact&theme=tokyonight)
+
 ## 🌍 Meu propósito
 
 Acredito que a **tecnologia com propósito** pode fazer a diferença. Meus projetos têm como objetivo não apenas resolver desafios técnicos, mas também contribuir para a construção de um futuro mais justo e sustentável. Minha jornada é sobre aprender, criar e impactar positivamente a sociedade.
