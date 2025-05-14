@@ -25,6 +25,6 @@ Acredito que a **tecnologia com propósito** pode fazer a diferença. Meus proje
 
 Estou sempre aberta para novas oportunidades de aprender e colaborar. Se você tem uma ideia de projeto, quer trocar experiências ou apenas conversar sobre tecnologia, fique à vontade para me contatar!
 
-[🔗 LinkedIn: Ingryd Shirley](https://www.linkedin.com/in/ingryd-shirley/)  
+[🔗 LinkedIn: Ingryd Shirlley](https://www.linkedin.com/in/ingryd-shirlley/)  
 [📧 E-mail: ingryddasilva7@gmail.com](mailto:ingryddasilva7@gmail.com)
 
