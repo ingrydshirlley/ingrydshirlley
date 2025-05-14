@@ -1,6 +1,6 @@
 # Olá, sou Ingryd Shirlley! 👩‍💻
 
-Sou estudante de **Engenharia de Software** e uma entusiasta de **desenvolvimento com propósito**. Acredito que a tecnologia pode transformar realidades e, por isso, busco sempre alinhar meus projetos a uma missão que traga valor e impacte positivamente a vida das pessoas.
+Sou estudante de **Engenharia de Software** e uma entusiasta de **desenvolvimento com propósito**. Acredito que a tecnologia pode transformar realidades e, por isso, busco sempre alinhar meus projetos a uma missão que traga valor e impacte positivamente a vida das pessoas. Acredito que a **tecnologia com propósito** pode fazer a diferença. Meus projetos têm como objetivo não apenas resolver desafios técnicos, mas também contribuir para a construção de um futuro mais justo e sustentável. Minha jornada é sobre aprender, criar e impactar positivamente a sociedade.
 
 ## 💻 Minhas Tecnologias
 
@@ -20,15 +20,3 @@ Atualmente, estou explorando o mundo do **Java** e **programação orientada a o
 ## 📈 Linguagens Mais Usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingrydshirlley&layout=compact&theme=tokyonight)
-
-## 🌍 Meu propósito
-
-Acredito que a **tecnologia com propósito** pode fazer a diferença. Meus projetos têm como objetivo não apenas resolver desafios técnicos, mas também contribuir para a construção de um futuro mais justo e sustentável. Minha jornada é sobre aprender, criar e impactar positivamente a sociedade.
-
-## 📫 Vamos conversar?
-
-Estou sempre aberta para novas oportunidades de aprender e colaborar. Se você tem uma ideia de projeto, quer trocar experiências ou apenas conversar sobre tecnologia, fique à vontade para me contatar!
-
-[🔗 LinkedIn: Ingryd Shirlley](https://www.linkedin.com/in/ingryd-shirlley/)  
-[📧 E-mail: ingryddasilva7@gmail.com](mailto:ingryddasilva7@gmail.com)
-
